@@ -1,4 +1,6 @@
 # Jariyo - Restaurant Reservation App
+<img width="727" alt="image" src="https://github.com/user-attachments/assets/a9e1e29f-220c-48d1-8c87-b7c6a862b103" />
+
 
 Jariyo is a Flutter-based mobile application that helps users discover and reserve tables at restaurants. The app provides a seamless experience for users to browse restaurants, view available tables, and make reservations.
 
