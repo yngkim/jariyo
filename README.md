@@ -4,7 +4,7 @@ Jariyo is a Flutter-based mobile application that helps users discover and reser
 
 ## Project Presentation
 
-You can view the project presentation slides [here](https://github.com/yngkim/jariyo/releases/latest/download/jariyo_presentation.pptx).
+You can view the project presentation slides [here](https://github.com/yngkim/jariyo/releases/latest/download/default.pptx).
 
 ## Features
 
